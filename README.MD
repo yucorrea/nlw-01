@@ -31,11 +31,11 @@
 
  ## Tecnologias 
 
-- [Node.js][nodejs]
-- [TypeScript][typescript]
-- [React][reactjs]
-- [React Native][rn]
-- [Expo][expo]
+- [Nodejs](https://nodejs.org/en/)
+- [Typescript](https://www.typescriptlang.org/)
+- [ReactJS](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.io/)
 
 ## Como usar
 
