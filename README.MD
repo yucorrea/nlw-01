@@ -19,9 +19,9 @@
   Week to accelerate your evolution as a dev and advance to the next level.
 
 
-## :rocket: Projeto
+## :rocket: Project
    Application that aims to facilitate the location of waste collection points.
- <br>
+  <br>
    Ex: (Batteries, Cooking Oil, Paper and Cardboard, Organic Waste, Electronics and Lamps)
 
 <h1 align="center">
@@ -39,8 +39,7 @@
 
 ## :information_source: How to use
 
-You must have the following programs installed on your operating system. <br>
-[Git](https://git-scm.com) | [Node.js](https://nodejs.org/en/) |  [Yarn](https://yarnpkg.com/) | [Expo](https://docs.expo.io/get-started/installation/)
+You must have the following programs installed on your operating system. [Git](https://git-scm.com) | [Node.js](https://nodejs.org/en/) |  [Yarn](https://yarnpkg.com/) | [Expo](https://docs.expo.io/get-started/installation/)
 
 
 ## Start backend application
@@ -49,7 +48,7 @@ You must have the following programs installed on your operating system. <br>
 # Clone the repository 
 $ git clone https://github.com/yucorrea/nlw-01.git
 
-# Navegando até a pasta do backend
+# Navigating to the backend folder
 $ cd nlw-01/server
 
 # Install dependecies
