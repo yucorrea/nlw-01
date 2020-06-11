@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#next-level-week">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -29,7 +29,7 @@
 </h1>
 
 
- ## :computer: Technology 
+ ## :computer: Technologies 
 
 - [Nodejs](https://nodejs.org/en/)
 - [Typescript](https://www.typescriptlang.org/)
