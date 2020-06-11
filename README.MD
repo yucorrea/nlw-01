@@ -8,28 +8,28 @@
 
 <p align="center">
   <a href="#next-level-week">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
 
 ## Next Level Week
-   Semana para acelerar sua evolução como dev e avançar para o próximo nível.
+  Week to accelerate your evolution as a dev and advance to the next level.
 
 
-## Projeto
- Aplicação que tem como objetivo facilidar a localização de pontos de coleta de resíduos.
+## :rocket: Projeto
+   Application that aims to facilitate the location of waste collection points.
  <br>
-  Ex: (Pilhas e Baterias, Oléo de Cozinha, Papel e Papelão, Resíduos Orgânicos, Eletrônicos e Lâmpadas)
+   Ex: (Batteries, Cooking Oil, Paper and Cardboard, Organic Waste, Electronics and Lamps)
 
 <h1 align="center">
     <img alt="Example" title="Example" src=".github/capa.svg" width="500px" />
 </h1>
 
 
- ## Tecnologias 
+ ## :computer: Technology 
 
 - [Nodejs](https://nodejs.org/en/)
 - [Typescript](https://www.typescriptlang.org/)
@@ -37,67 +37,67 @@
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.io/)
 
-## Como usar
+## :information_source: How to use
 
-É necessário ter os sequintes programas instalado em seu sistema operacional. <br>
+You must have the following programs installed on your operating system. <br>
 [Git](https://git-scm.com) | [Node.js](https://nodejs.org/en/) |  [Yarn](https://yarnpkg.com/) | [Expo](https://docs.expo.io/get-started/installation/)
 
 
-## Iniciando Aplicação Backend
+## Start backend application
 
 ```bash
-# Clone esse repositório
+# Clone the repository 
 $ git clone https://github.com/yucorrea/nlw-01.git
 
 # Navegando até a pasta do backend
 $ cd nlw-01/server
 
-# Instalando as dependências
+# Install dependecies
 $ yarn install
 
-# Criando as migrations
+# Create migrations
 $ yarn knex:migrate
 
-# Criando os Seeds
+# Create Seeds
 $ yarn knex:seed
 
-# Iniciando a aplicação
+# Start application
 $ yarn dev
 
 Servidor rodando na porta 3333
 ```
 
-## Iniciando Aplicação Web
+## Start web application
 
 ```bash
-## Na raiz do projeto ./nlw-01
+## At the root of the project ./nlw-01
 
 $ cd nlw-01/web
 
-# Instalando as dependências
+# Install dependencies
 $ yarn install
 
-# Iniciando a aplicação
+# Start application
 $ yarn start
 ```
 
-## Iniciando Aplicação Mobile
+##  Start mobile application
 
-É necessário fazer o donwload na Google Play do [Expo](Expo) 
+You must download in Google Play of [Expo](Expo) 
 
 ```bash
-## Na raiz do projeto ./nlw-01
+## At the root of the project ./nlw-01
 
 $ cd nlw-01/mobile
 
-# Instalando as dependências
+# Install dependencies
 $ yarn install
 
-# Iniciando a aplicação
+# Start application
 $ expo start
 
-# Escaneie o QRCODE que apareceu no seu terminal com o Expo
+# Scan the qrcode that appeared on your terminal
 
 ```
 
-Feito com ♥ de Yuri Corrêa :wave: [Entrar em contato!](https://www.linkedin.com/in/yucorrea/)
+Made with :heart: by Yuri Corrêa :wave: [Contact me!](https://www.linkedin.com/in/yucorrea/)
